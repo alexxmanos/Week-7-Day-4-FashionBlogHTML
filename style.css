@@ -10,6 +10,7 @@ body {
     border-left-color: lightgray;
     border-left-width: 5px;
     max-width: 1000px;
+    display: flexbox;
   }
   
   #main {
